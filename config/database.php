@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'localhost:3307';
 $db   = 'crud_search_system';
 $user = 'root';
 $pass = '';
